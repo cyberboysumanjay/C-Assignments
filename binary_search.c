@@ -5,7 +5,7 @@ int main()
 
    printf("Enter number of elements\n");
    scanf("%d",&n);
-
+//Here elements will be entered
    printf("Enter %d integers\n", n);
 
    for (c = 0; c < n; c++)
